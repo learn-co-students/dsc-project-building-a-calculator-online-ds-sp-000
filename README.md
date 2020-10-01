@@ -34,11 +34,30 @@ Please select an operation:
 3. Multiply
 4. Divide
 
+for adding the sums:-
 Select operations from 1, 2, 3, 4 : 1
 Enter first number : 20
 Enter second number : 13
 20 + 13 = 33
 ```
+for subtracting sums:-
+select an operation from 1, 2, 3, 4, : 1
+Enter first number : 20
+Enter second number : 13
+20 - 13 = 7
+
+for multiplying sums:-
+select an operation from 1, 2, 3, 4, : 1
+Enter first number : 20
+Enter second number : 13
+20 * 13 = 260
+
+for dividing sums:-
+select operations from 1, 2, 3, 4, : 1
+Enter first number : 20
+Enter second number: 13
+20 / 13 = 1.53846153846
+
 
 ## Creating arithmetic functions
 
